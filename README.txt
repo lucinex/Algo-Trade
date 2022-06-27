@@ -1,0 +1,1 @@
+This is a repo of all the works done by me Related to Stock Market 
